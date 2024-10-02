@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-left: 20px;
+  background-color: #dfdede;
+}
+
+.button {
+  background-color: #dfdede;
+}
